@@ -1,1 +1,2 @@
 creating first demo of git 
+after changing in document 
